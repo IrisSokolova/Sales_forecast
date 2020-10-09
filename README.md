@@ -58,7 +58,7 @@ Karpov.courses Проект: вариант 2
 
 ### Задание 3
 
-### SQL_example.ipynb
+### SQL_example.sql
 
         1. Описание проблемы
 
